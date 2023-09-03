@@ -1,4 +1,3 @@
-# portfolio
 This is my public portfolio for Telling Stories with Data at CMU.
 - Web page URL: https://bfriedel.github.io/friedel-tswd-portfolio/
 
