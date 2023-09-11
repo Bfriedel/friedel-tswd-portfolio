@@ -15,10 +15,10 @@ When the government's debt-to-GDP ratio increases over time, it usually means th
 
 <div class="flourish-embed flourish-map" data-src="visualisation/14982214"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 I selected just the countries of Europe as a subset of the data since that data is mostly complete, compared to other regions where data is missing. 
 
 Instead of showing how the GDP-to-debt ratio changes over time, I chose illustrate a snapshot of theratios in 2021. This approach makes it easier to compare countries to each other for that specific year. Tracking changes over time, as in the sparklines plots, can be valuable to see how individual countries evolve, but a snapshot of the most recent data allows for more straightforward comparisons of countries, similar to the bar chart. Using a map format leverages our familiarity with the shapes and positions of countries, making it easier to compare them visually without relying solely on reading country names on a graph's x-axis.
 
 I used the 'inferno' color scale to represent that a higher GDP-to-debt ratio is typically a concerning sign for a country. It suggests that the government may struggle to effectively manage its finances in a sustainable manner, which is why I used colors to visually emphasize this aspect.
 
+[I sourced this data from General government debt, OECD Data](https://data.oecd.org/gga/general-government-debt.htm), accessed on 09 September 2023. 
