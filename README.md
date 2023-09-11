@@ -9,7 +9,7 @@ I'm hoping to create a new way of thinking for how best to present data, past ju
 
 # Portfolio
 
-## Assignment 1: 
+## Assignment: [Visualizing Government Debt](https://bfriedel.github.io/portfolio/visualizing-government-debt)
 
 ## Assignment 3&4:
 
