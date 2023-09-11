@@ -1,4 +1,4 @@
-| [home page](https://bfriedel.github.io/portfolio/) | [visualizing debt](https://bfriedel.github.io/portfolio/visualizing-government-debt)| 
+| [home page](https://bfriedel.github.io/portfolio/) | [visualizing debt](https://bfriedel.github.io/portfolio/visualizing-government-debt) | 
 
 # Visualizing Government Debt 
 
@@ -13,7 +13,7 @@ To calculate this ratio, we add up different types of government debt, including
 
 When the government's debt-to-GDP ratio increases over time, it usually means that the government has been running budget deficits in the past, spending more money than it collects in revenue. This can raise concerns about the government's ability to manage its finances sustainably.
 
-
+<div class="flourish-embed flourish-map" data-src="visualisation/14982214"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
