@@ -21,4 +21,4 @@ Instead of showing how the GDP-to-debt ratio changes over time, I chose illustra
 
 I used the 'inferno' color scale to represent that a higher GDP-to-debt ratio is typically a concerning sign for a country. It suggests that the government may struggle to effectively manage its finances in a sustainable manner, which is why I used colors to visually emphasize this aspect.
 
-[I sourced this data from General government debt, OECD Data](https://data.oecd.org/gga/general-government-debt.htm), accessed on 09 September 2023. 
+I sourced this data from [General government debt, OECD Data](https://data.oecd.org/gga/general-government-debt.htm), accessed on 09 September 2023. 
