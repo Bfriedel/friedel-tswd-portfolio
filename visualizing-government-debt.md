@@ -15,5 +15,9 @@ When the government's debt-to-GDP ratio increases over time, it usually means th
 
 <div class="flourish-embed flourish-map" data-src="visualisation/14982214"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+I chose illustrate a snapshot of the GDP-to-debt ratio rather than showing it over time just to show how the countries compare to each other in 2021. Showing the ratio over time is helpful in seeing how individual countries have changed over time, but providing a snapshot of the most recent data allows us to more easily compare the countries to each other than the sparklines. 
 
+I selected just the countries of Europe as a subset of the data since that data is mostly complete, whereas if I had chosen a different region, it would be mostly empty. 
+
+I chose the color scale 'inferno' to show that an increased GDP-to-debt ratio is bad for a country, as it can raise concerns about the government's ability to manage its finances sustainably.
 
