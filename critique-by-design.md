@@ -10,4 +10,3 @@ For this assignment, I found the following visualization:
 
 This chart compares growth of diversity among different roles of D1 College Football from 2012 to 2022 in order to make the point that the role of head coach has seen no growth in diversity while every other role has. The main reason I chose this chart because I had a hard time distinguishing difference in diversity between 2012 and 2022 due to the use of a circle as the shape. 
 
-
