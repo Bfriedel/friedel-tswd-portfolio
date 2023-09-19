@@ -57,7 +57,7 @@ Additionally, including a section on whether the chosen chart type is the most s
 
 I originally sketched out two solutions, a line chart and a bar graph because I was not sure which would be better for presenting the data. I tried to sketch out a solution which included both the value of the percentage of POC, but also allowed us to better visualize the growth. While trying to include both of these, I chose a line graph. Upon testing this sketch with other people, they did not feel it properly conveyed the lack of growth in diversity of the head coaching position, which was the main point of the story.
 
- Once I reexamined the main intent of the visualization, which was to show the lack of growth in diversity for the head coaching position, I decided to stick with the bar chart to directly observe change in percentage POC in the roles. This visualization allows us to directly view the growth as opposed to individual values.
+ Once I reexamined the main intent of the visualization, which was to show the lack of growth in diversity for the head coaching position, I decided to stick with the bar chart to directly observe change in percentage POC in the roles. This visualization allows us to directly view the growth as opposed to individual values. 
 
 ![text](Sketch-Solution-draft1.png)
 
@@ -70,12 +70,16 @@ I originally sketched out two solutions, a line chart and a bar graph because I 
 **test 1** Student, mid 20s\
 I showed this person the bar graph first and they were able to identify the message I intended, which is lack of growth in the head coaching position. What they found surprising was the lack of growth and they wanted to see a couple decimal places included to know the true number. They believed the intended audience is athletic directors of colleges who are looking to hire coaches. While this was not who I believed the intended audience to be, it is a valid concern that athletic directors should be observing so i do agree with this assessment. When asked if they would do anything differently besides adding additional decimal places, they said the title could be more clear. Lastly, I showed them the line graph sketch, which they did not like because it was still difficult to directly compare growth if diversity in the categories. 
 
-**test 1** Adult, late 50s
-When I showed this person the sketch of the bar chart, they were able to correctly identify my intended message and thought the data was interesting. When asked if there was anything they would do differently, they said spelling out POC would make it more clear, as well as shortening the title. They also wanted to know the specific values of roles filled by POC. 
+**test 1** Adult, late 50s\
+When I showed this person the sketch of the bar chart, they were able to correctly identify my intended message and thought the data was interesting. When asked if there was anything they would do differently, they said spelling out POC would make it more clear, as well as shortening the title. They also wanted to know the specific values of roles filled by POC. Finally, they said 
 
-**test 2** Adult, mid 20s and Adult, mid 20s
+**test 2** Adult, mid 20s and Adult, mid 20s\
 
-From my feedback, the changes I made included making a better title, using a two decimal places in the value labels, and adding a popup boxes which tells the actual percentage of POCs in each role. 
+
+From my initial feedback, the changes I made included making a better title, using a two decimal places in the value labels, and adding a popup boxes which tells the actual percentage of POCs in each role. I used red to highlight the head coahces to draw attention to it since the bar is so small. 
+
+**class feedback** Adults, mid 20s\
+When shown my draft solution on Flourish, this group said they liked the bar chart because they could see a dramatic difference between head coaches and other categories. They also liked the title and the colors and popups. I originally added a subtitle which explained the graph and included the note about HBCUs not being included. They said that was not necessary excpet for the note about HBCUs not being included and said that information would be better in a footnote.
 
 ## Step 5: Build the Solution
 
@@ -83,7 +87,7 @@ From my feedback, the changes I made included making a better title, using a two
 
 I created my solution using the same data that the original creator used, which excluded HBCUs. 
 
-After doing this, I decided to use the same design but include HBCUs in the data to see if it told the same story.
+After doing this, I decided to use the same design but include HBCUs in the data to see if it told the same story. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15074096"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -95,5 +99,7 @@ Given that the data ultimately tells a similar narrative, the decision to exclud
 ## Interesting Articles for Further Reading
 
 (Time: College Football's Big Problem With Race)[https://time.com/4110443/college-football-race-problem/]
+
+(CBS Chicago: Nepotism a Barrier to Diversity in College Football Coaching, AP Study Shows)[https://www.nbcchicago.com/news/sports/nepotism-a-barrier-to-diversity-in-college-football-coaching-ap-study-shows/2922430/]
 
 (The Gaurdian: Race, money and exploitation: why college sport is still the ‘new plantation)[https://www.theguardian.com/sport/2021/sep/07/race-money-and-exploitation-why-college-sport-is-still-the-new-plantation]
