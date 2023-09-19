@@ -98,8 +98,8 @@ Given that the data ultimately tells a similar narrative, the decision to exclud
 
 ## Interesting Articles for Further Reading
 
-(Time: College Football's Big Problem With Race)[https://time.com/4110443/college-football-race-problem/]
+[Time: College Football's Big Problem With Race](https://time.com/4110443/college-football-race-problem/)
 
-(CBS Chicago: Nepotism a Barrier to Diversity in College Football Coaching, AP Study Shows)[https://www.nbcchicago.com/news/sports/nepotism-a-barrier-to-diversity-in-college-football-coaching-ap-study-shows/2922430/]
+[CBS Chicago: Nepotism a Barrier to Diversity in College Football Coaching, AP Study Shows](https://www.nbcchicago.com/news/sports/nepotism-a-barrier-to-diversity-in-college-football-coaching-ap-study-shows/2922430/)
 
-(The Gaurdian: Race, money and exploitation: why college sport is still the ‘new plantation)[https://www.theguardian.com/sport/2021/sep/07/race-money-and-exploitation-why-college-sport-is-still-the-new-plantation]
+[The Gaurdian: Race, money and exploitation: why college sport is still the ‘new plantation](https://www.theguardian.com/sport/2021/sep/07/race-money-and-exploitation-why-college-sport-is-still-the-new-plantation)
