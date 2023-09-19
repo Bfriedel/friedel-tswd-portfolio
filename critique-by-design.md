@@ -73,4 +73,3 @@ I originally sketched out two solutions, a line chart and a bar graph because I 
 ## Step 5: Build the Solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15061453"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
