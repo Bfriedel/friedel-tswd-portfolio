@@ -87,6 +87,9 @@ When shown my draft solution on Flourish, this group said they liked the bar cha
 
 I created my solution using the same data that the original creator used, which excluded HBCUs. 
 
+
+### Different Data
+
 After doing this, I decided to use the same design but include HBCUs in the data to see if it told the same story. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15074096"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
