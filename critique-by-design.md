@@ -57,9 +57,9 @@ Additionally, including a section on whether the chosen chart type is the most s
 
 I originally sketched out two solutions, a line chart and a bar graph because I was not sure which would be better for presenting the data. Once I reexamined the main intent of the visualization, which was to show the lack of growth in diversity for the head coaching position, I decided to stick with the bar chart to directly observe change in percentage POC in the roles. 
 
-insert sketch 1
+![text](Sketch-Solution-draft1.png)
 
-insert sketch 2
+![text](Sketch-Solution.png)
 
 
 ## Step 4: Test the Solution
