@@ -73,3 +73,11 @@ I originally sketched out two solutions, a line chart and a bar graph because I 
 ## Step 5: Build the Solution
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15061453"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I created my solution using the same data that the original creator used, which excluded HBCUs. After doing this, I decided to use the same design but include HBCUs in the data to see if it told the same story.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/15074096"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+ Upon analysis, it became evident that the inclusion of HBCUs in the data does indeed tell a similar story, though to a slightly lesser degree. Specifically, when HBCUs are included, the percentage of people of color (POC) in head coaching roles increases by 0.55%, as opposed to the 0.36% increase observed when excluding HBCUs. Additionally, the impact is less pronounced when compared to other categories. For instance, the maximum increase is still observed in assistant coaching roles, with a 10.11% increase when HBCUs are included, as opposed to an 11.89% increase when they are excluded.
+
+Given that the data ultimately tells a similar narrative, the decision to exclude HBCUs from the original data visualization raises questions. Without a clear explanation for this choice, it leaves room for uncertainty regarding the rationale behind this exclusion and whether it may have influenced the overall message conveyed by the visualization.
