@@ -6,7 +6,7 @@
 
 For this assignment, I found the following visualization:
 
-[Axios-Chart-D1CFB-Diversity.png]
+!(Axios-Chart-D1CFB-Diversity.png)
 
 [Source: Axios](https://www.axios.com/2023/09/02/college-football-head-coach-diversity)
 
