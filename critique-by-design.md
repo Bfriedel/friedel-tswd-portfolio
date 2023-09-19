@@ -72,5 +72,5 @@ insert sketch 2
 
 ## Step 5: Build the Solution
 
-
+<div class="flourish-embed flourish-chart" data-src="visualisation/15061453"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
