@@ -83,6 +83,8 @@ When shown my draft solution on Flourish, this group said they liked the bar cha
 
 ## Step 5: Build the Solution
 
+# Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/15061453"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I created my solution using the same data that the original creator used, which excluded HBCUs. 
