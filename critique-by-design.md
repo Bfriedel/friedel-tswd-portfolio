@@ -85,6 +85,8 @@ When shown my draft solution on Flourish, this group said they liked the bar cha
 
 # Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
+My redesigned visualization shows the change in percentage of people of color filling roles of six different categories of roles in college football from 2012 to 2022. The categories are Head Coaches, Defensive Coordinators, Offensive Coordinators, Assistant Coaches, Graduate Assistants, and Student Athletes and I sorted them in descedning order based on difference in percentage of roles filled by POC.  
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/15061453"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I created my solution using the same data that the original creator used, which excluded HBCUs. 
