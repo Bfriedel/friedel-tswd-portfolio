@@ -83,25 +83,27 @@ When shown my draft solution on Flourish, this group said they liked the bar cha
 
 ## Step 5: Build the Solution
 
-# Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
+My redesigned data visualization provides a direct comparison of the growth in the representation of people of color (POC) across six different categories of roles in college football from 2012 to 2022. Rather than relying on the challenging perception of changes through area-based representations like circles, I opted for a bar chart. This choice was made with the intention of enhancing the viewer's understanding of the data by presenting it in a more intuitive and straightforward manner.
 
-My redesigned visualization shows the change in percentage of people of color filling roles of six different categories of roles in college football from 2012 to 2022. The categories are Head Coaches, Defensive Coordinators, Offensive Coordinators, Assistant Coaches, Graduate Assistants, and Student Athletes and I sorted them in descedning order based on difference in percentage of roles filled by POC.  
+The categories of Head Coaches, Defensive Coordinators, Offensive Coordinators, Assistant Coaches, Graduate Assistants, and Student Athletes were sorted in descending order based on the difference in the percentage of roles filled by POC from 2012 to 2022. This sorting method helps viewers immediately identify which categories have shown the most significant changes over the decade. To further assist the audience in interpreting the data, I included value labels on each bar, making it easy to grasp the magnitude of change in each category. Additionally, I incorporated a pop-up feature that provides viewers with the actual values from 2012 and 2022 when they hover over each bar, presenting a more detailed examination of the data.
+
+I used the color red to highlight the Head Coaches category. This was intended to draw attention to this specific group, potentially indicating a focus area or an area of concern in terms of diversity and representation. 
+
+In conclusion, my redesigned data visualization conveys the changes in the percentage of people of color occupying various roles in college football over the past decade. By using a bar chart and implementing labeling and pop-up features, I aimed to create a visualization that is both informative and accessible, allowing viewers to easily discern and understand the trends in POC representation within the chosen categories.
+
+I first created my solution using the same data that the original creator used, which excluded HBCUs, and included a footer note which tells the viewer that this category was not included. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15061453"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I created my solution using the same data that the original creator used, which excluded HBCUs. 
-
-
 ### Different Data
 
-After doing this, I decided to use the same design but include HBCUs in the data to see if it told the same story. 
+After using the data the doing this, I decided to use the same design but include HBCUs in the data to see if it told the same story. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15074096"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Upon analysis, it became evident that the inclusion of HBCUs in the data does indeed tell a similar story, though to a slightly lesser degree. Specifically, when HBCUs are included, the percentage of people of color (POC) in head coaching roles increases by 0.55%, as opposed to the 0.36% increase observed when excluding HBCUs. Additionally, the impact is less pronounced when compared to other categories. For instance, the maximum increase is still observed in assistant coaching roles, with a 10.11% increase when HBCUs are included, as opposed to an 11.89% increase when they are excluded.
+Upon analysis, it became evident that the inclusion of HBCUs in the data does indeed tell a similar story, though to a slightly lesser degree. Specifically, when HBCUs are included, the percentage of POC in head coaching roles increases by 0.55%, as opposed to the 0.36% increase observed when excluding HBCUs. Additionally, the impact is less pronounced when compared to other categories. For instance, the maximum increase is still observed in assistant coaching roles, with a 10.11% increase when HBCUs are included, as opposed to an 11.89% increase when they are excluded.
 
 Given that the data ultimately tells a similar narrative, the decision to exclude HBCUs from the original data visualization raises questions. Without a clear explanation for this choice, it leaves room for uncertainty regarding the rationale behind this exclusion and whether it may have influenced the overall message conveyed by the visualization.
-
 
 ## Interesting Articles for Further Reading
 
