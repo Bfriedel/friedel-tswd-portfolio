@@ -10,7 +10,7 @@ For this assignment, I found the following visualization:
 
 [Source: Axios](https://www.axios.com/2023/09/02/college-football-head-coach-diversity)
 
-This chart illustrates the evolution of diversity among various roles in D1 College Football from 2012 to 2022, emphasizing that the position of head coach has shown minimal growth compared to all other roles. I chose this chart primarily because it relies on comparing areas of circles to convey changes between categories and years which makes it challenging to discern differences in diversity effectively. Additionally, I found that the visualization did not align with the core message of the article, which aims to highlight the lack of diversity growth over an 11-year period; this visualization gave us too much information from the beginning. 
+This chart illustrates the evolution of diversity among various roles in D1 College Football from 2012 to 2022, and seeks to emphasize that the position of head coach has shown minimal growth compared to all other roles. I chose this chart primarily because it relies on comparing areas of circles to convey changes between categories and years which makes it challenging to discern differences in diversity effectively. Additionally, I found that the visualization did not align with the core message of the article, which aims to highlight the lack of diversity growth over an 11-year period; this visualization gave us too much information from the beginning. 
 
 ## Step 2: Critique the Data Visualization
 
@@ -82,6 +82,8 @@ From my initial feedback, the changes I made included making a better title, usi
 When shown my draft solution on Flourish, this group said they liked the bar chart because they could see a dramatic difference between head coaches and other categories. They also liked the title and the colors and popups. I originally added a subtitle which explained the graph and included the note about HBCUs not being included. They said that was not necessary excpet for the note about HBCUs not being included and said that information would be better in a footnote.
 
 ## Step 5: Build the Solution
+
+I chose the original chart primarily because it relies on comparing areas of circles to convey changes between categories and years which makes it challenging to discern differences in diversity effectively. Additionally, I found that the visualization did not align with the core message of the article, which aims to highlight the lack of diversity growth over an 11-year period; this visualization gave us too much information from the beginning. 
 
 My redesigned data visualization provides a direct comparison of the growth in the representation of POC across six different categories of roles in college football from 2012 to 2022. Rather than relying on the challenging perception of changes through area-based representations like circles, I opted for a bar chart. This choice was made with the intention of enhancing the viewer's understanding of the data by presenting it in a more intuitive and straightforward manner.
 
