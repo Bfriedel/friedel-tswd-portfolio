@@ -73,7 +73,7 @@ I showed this person the bar graph first and they were able to identify the mess
 **test 1** Adult, late 50s\
 When I showed this person the sketch of the bar chart, they were able to correctly identify my intended message and thought the data was interesting. When asked if there was anything they would do differently, they said spelling out POC would make it more clear, as well as shortening the title. They also wanted to know the specific values of roles filled by POC. Finally, they said 
 
-**test 2** Adult, mid 20s and Adult, mid 20s\
+**test 2** Adults, mid 20s\
 I showed my chart to two more people because one played D1 college football. They were able to correctly identify the intended message. I was again asked what the exact population makeups were. This led to a discussion of the broader view of the topic.While this topic has been in the news often, especially recently, it is not discussed in the teams. The former player was interested in the data and thought it was interesting that they had never considered the lack of diversity in head coaches before I showed them the graph. From this discussion, I did not receive any new changes to make to the chart, but am now more interested in the impact of the NCAA's new NIL rules on the issue of diversity within sports. 
 
 From my initial feedback, the changes I made included making a better title, using a two decimal places in the value labels, and adding a popup boxes which tells the actual percentage of POCs in each role. I used red to highlight the head coahces to draw attention to it since the bar is so small. 
