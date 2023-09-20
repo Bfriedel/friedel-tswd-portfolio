@@ -10,7 +10,7 @@ For this assignment, I found the following visualization:
 
 [Source: Axios](https://www.axios.com/2023/09/02/college-football-head-coach-diversity)
 
-This chart compares growth of diversity among different roles of D1 College Football from 2012 to 2022 in order to make the point that the role of head coach has seen no growth in diversity while every other role has. The main reason I chose this chart because I had a hard time distinguishing difference in diversity between 2012 and 2022 due to the use of a circle as the shape. 
+This chart illustrates the evolution of diversity among various roles in D1 College Football from 2012 to 2022, emphasizing that the position of head coach has shown minimal growth compared to all other roles. I chose this chart primarily because it relies on comparing areas of circles to convey changes between categories and years which makes it challenging to discern differences in diversity effectively. Additionally, I found that the visualization did not align with the core message of the article, which aims to highlight the lack of diversity growth over an 11-year period; this visualization gave us too much information from the beginning. 
 
 ## Step 2: Critique the Data Visualization
 
