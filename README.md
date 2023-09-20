@@ -11,7 +11,7 @@ I'm hoping to create a new way of thinking for how best to present data, past ju
 
 ## Assignment: [Visualizing Government Debt](https://bfriedel.github.io/portfolio/visualizing-government-debt)
 
-## Assignment 3&4:
+## Assignment 3&4: [Critique by Design](https://bfriedel.github.io/portfolio/critique-by-design)
 
 ## Final project
 
