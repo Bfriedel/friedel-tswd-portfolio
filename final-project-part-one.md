@@ -28,7 +28,7 @@ Story Arc:
 
 <img src="Sketch1.png" alt="Story-Arc" width="800"/>
 
-Charts:
+Sketches:
 
 <img src="Sketch2.png" alt="Sketch2" width="800"/>
 <img src="Sketch3.png" alt="Sketch3" width="800"/>
