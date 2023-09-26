@@ -7,11 +7,11 @@ I am interested in showing how Congress People's stock trades conflict with the 
 
 [^1]: 112th Congress. "Public Law No: 112-105." Congress, n.d., https://www.congress.gov/112/plaws/publ105/PLAW-112publ105.htm.
 [^2]: Wong, Scott. "Insider Trading Bill Heads to House." Politico, Politico, 10 Feb. 2012, https://www.politico.com/story/2012/02/insider-trading-bill-heads-to-house-072391.
-[^3]: Caputo, Marsco, Payne. "The STOCK Act: The Failed Effort to top Insider Trading in Congress." Campaign Legal. https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress
-[^4]: https://www.npr.org/2021/09/21/1039313011/tiktokers-are-trading-stocks-by-watching-what-members-of-congress-do
-[^5]: https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html#:~:text=Stock%20Trades%20Reported%20by%20Nearly%20a%20Fifth%20of%20Congress%20Show%20Possible%20Conflicts,-By%20Kate%20Kelly&text=A%20New%20York%20Times%20analysis,by%20their%20legislative%20committee%20work.
-[^6]: https://finance.yahoo.com/news/put-american-public-first-senators-211500437.html
-[^7]: https://www.pewresearch.org/politics/2023/09/19/public-trust-in-government-1958-2023/
+[^3]: Caputo, Marsco, Payne. "The STOCK Act: The Failed Effort to top Insider Trading in Congress." Campaign Legal, 18 Feb. 2022. https://campaignlegal.org/update/stock-act-failed-effort-stop-insider-trading-congress
+[^4]: Mak, Tim. "TikTokers Are Trading Stocks By Copying What Members Of Congress Do." NPR, 21 Sept. 2021. https://www.npr.org/2021/09/21/1039313011/tiktokers-are-trading-stocks-by-watching-what-members-of-congress-do
+[^5]: Kelly, Playford, Parlapiano. "Stock Trades Reported by Nearly a Fifth of Congress Show Possible Conflicts." New York Times, 13 Sept. 2022. https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html#:~:text=Stock%20Trades%20Reported%20by%20Nearly%20a%20Fifth%20of%20Congress%20Show%20Possible%20Conflicts,-By%20Kate%20Kelly&text=A%20New%20York%20Times%20analysis,by%20their%20legislative%20committee%20work.
+[^6]: Moorcraft, Bethan. "'Put the American public first': Senators introduce a bipartisan law to ban members of Congress and executive officials — including the president — from trading stocks." Yahoo!Finance, 21 Sept. 2023. https://finance.yahoo.com/news/put-american-public-first-senators-211500437.html
+[^7]: Pew Research Center. "Public Trust in Government: 1958-2023." Pew Research Center, 19 Sept. 2023. https://www.pewresearch.org/politics/2023/09/19/public-trust-in-government-1958-2023/
 
 ## Project Structure
 - Introduction to stocks and insider trading
