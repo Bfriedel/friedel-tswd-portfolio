@@ -28,14 +28,9 @@ I am interested in showing how Congress People's stock trades conflict with the 
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Because the STOCK Act requires disclosure of trades, the data is publically accessible through the SEC. Many different websites have built their platforms off of scraping this publicly accessible information so the data is easily accessible in many different places. I plan on using two main sources, Capitol Trades and Quiver Quantitative https://www.quiverquant.com/congresstrading/, which report the same data except Quiver Quantitative reports the performance of the stock since the purchase or sale, and Capitol Trades also has information on the committees the congress people are on. I also have access to an API on congress committees from 
-I am planning to scrape the information I need, or I could do a free trial of the Quiver Quantitvative site to download the transactions. 
+Because the STOCK Act requires disclosure of trades, the data is publically accessible through the SEC. Many different websites have built their platforms off of scraping this publicly accessible information so the data is easily accessible in many different places. I plan on using two main sources, Capitol Trades and Quiver Quantitative https://www.quiverquant.com/congresstrading/, which report the same data except Quiver Quantitative reports the performance of the stock since the purchase or sale, and Capitol Trades also has information on the committees the congress people are on. I also have access to an API on congress committees from ProPublica as well as Open Secrets, which will help me connect the Congress People to their committees. I am planning to scrape the information I need of trades, or I could do a free trial of the Quiver Quantitvative site to download the transactions. 
 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first.
-> 
 
 | Name | URL | Description |
 |------|-----|-------------|
