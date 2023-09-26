@@ -3,7 +3,7 @@
 # Outline
 In 2012, Congress passed the Stop Trading on Congressional Knowledge (STOCK) Act, which required that members of Congress and the Executive Branch report stock trades above $1,000 made by themselves or family within 45 days of the trade[^1]. This act was designed to combat insider trading following heavy volumes of trades made by members of Congress which led to reports of insider trading[^2]. In the 10+ years since this Act has passed, it has widely been considered a failed effort[^3]. 
 
-I am interested in showing how Congress People's stock trades conflict with the committees that they are on. For around two years on Tik Tok, creators have established platforms on the basis of tracking Congress People's stock trades and highlighting certain trades that could potentially be conflicts of interest[^4]. Last year, the New York Times did an analysis on all trades within and found 97 members of Congress that have made potentially conflicting trades based on the committees that they are on[^5]. Since that article was published, there have been three separate bills proposed to ban stock trading by members of Congress, two of which have been shut down. The last one was introduced in late July and it is uncertain whether it will make it to the floor for debate or voting. This bill would make Congress People, their spouses, and their dependent children to place their stocks into a blind trust or not trade altogether[^6]. Amid record low trust in the American government[^7] it is important that we increase more faith in our representatives. My call to action will be to urge people to call their congress people and express their support for the bill to stop Congress people from using insider information to increase theor own gains. 
+I am interested in showing how Congress People's stock trades conflict with the committees that they are on and how these trades have benefitted them by comparing their performance with that of the American Public. For around two years on Tik Tok, creators have established platforms on the basis of tracking Congress People's stock trades and highlighting certain trades that could potentially be conflicts of interest[^4]. Last year, the New York Times did an analysis on all trades within and found 97 members of Congress that have made potentially conflicting trades based on the committees that they are on[^5]. Since that article was published, there have been three separate bills proposed to ban stock trading by members of Congress, two of which have been shut down. The last one was introduced in late July and it is uncertain whether it will make it to the floor for debate or voting. This bill would make Congress People, their spouses, and their dependent children to place their stocks into a blind trust or not trade altogether[^6]. Amid record low trust in the American government[^7] it is important that we increase more faith in our representatives. My call to action will be to urge people to call their congress people and express their support for the bill to stop Congress people from using insider information to increase theor own gains. 
 
 [^1]: 112th Congress. "Public Law No: 112-105." Congress, n.d., https://www.congress.gov/112/plaws/publ105/PLAW-112publ105.htm.
 [^2]: Wong, Scott. "Insider Trading Bill Heads to House." Politico, Politico, 10 Feb. 2012, https://www.politico.com/story/2012/02/insider-trading-bill-heads-to-house-072391.
@@ -22,7 +22,7 @@ I am interested in showing how Congress People's stock trades conflict with the 
 - Congress stock performance versus American People stock performance (especially during COVID)
 - Call to Action
 
-## Initial sketches
+# Initial sketches
 
 Story Arc: 
 
@@ -55,4 +55,4 @@ Because the STOCK Act requires disclosure of trades, the data is publically acce
 
 
 # Method and medium
-I plan to complete this project using Shorthand and using Tableau and/or Flourish in order to complete any visualizations. 
+I plan to scrape data using Scrapy in Python, using Spyder. I then plan to clean the data using Pandas on a Jupyter Notebook and export to CSV. From there, I will create visualizations using Tableau and/or Flourish and publish these visualizations and my write up to a Shorthand presentation. 
