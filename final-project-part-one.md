@@ -13,9 +13,7 @@ I am interested in showing how Congress People's stock trades conflict with the 
 [^6]: https://finance.yahoo.com/news/put-american-public-first-senators-211500437.html
 [^7]: https://www.pewresearch.org/politics/2023/09/19/public-trust-in-government-1958-2023/
 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
+Project Structure: 
 - Introduction to stocks and insider trading
 - STOCK Act requirements
 - Why the act has failed (it's hard to prove insider trading)
