@@ -35,11 +35,6 @@ Charts:
 <img src="Sketch4.png" alt="Sketch4" width="800"/>
 <img src="Sketch5.png" alt="Sketch5" width="800"/>
 
-![text](Sketch2.png)
-![text](Sketch3.png)
-![text](Sketch4.png)
-![text](Sketch5.png)
-
 I am considering the idea of doing an analysis by political party, but party affiliation is not the point of my story, so I will determine if this is necessary when I get feedback.
 Note: even though Congress People report if the trade was made by themselves, their partner, or their dependent children, I have elected to just use the Congress Person's name and will annotate % of trades made by them versus others.
 
