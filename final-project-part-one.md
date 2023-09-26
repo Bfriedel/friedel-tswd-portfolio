@@ -20,7 +20,7 @@ I am interested in showing how Congress People's stock trades conflict with the 
 - View potentially conflicting trades by members of Congress
 - View the values of these trades
 - Congress stock performance versus American People stock performance (especially during COVID)
-
+- Call to Action
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
