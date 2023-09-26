@@ -45,13 +45,14 @@ Because the STOCK Act requires disclosure of trades, the data is publically acce
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Capitol Trades | https://www.capitoltrades.com/trades | politician, trade issuer, traded, reported, filed after, type of trade, size of trade |
-| Quiver Quantitative     | https://www.quiverquant.com/congresstrading/    |  table of politician, stock, transaction type, date of file, data of trade, and performance of the stock since purchase |
-|   Market Beat   |  https://www.marketbeat.com/congress-stock-trades/#following-congress-stock-trades   |   Stock company, current price, member of congress, trade data, date filed, date traded, price after trade          |
-| ProPublica | https://www.propublica.org/datastore/api/propublica-congress-api | API to get committees by member of congress |
-| Open Secrets | https://www.opensecrets.org/open-data/api-documentation | many different APIs to get information on different committees |
-|  Benzinga    |  https://www.benzinga.com/news/23/03/31521439/conflict-of-interest-congress-members-who-own-meta-goog-snap-shares-could-benefit-from-tiktok-ban   |   anecdotal evidence of stock trading gone wrong  |
-| Smart Insider | https://www.smartinsider.com/politicians/  | politician, congress, stock, type of transaction, date of transaction, trade value range |
+| Capitol Trades | https://www.capitoltrades.com/trades | Details of trades by politicians  |
+| Quiver Quantitative  | https://www.quiverquant.com/congresstrading/    |  Details of trades by politicians (includes performance of the stock since purchase or sale) |
+| Market Beat  |  https://www.marketbeat.com/congress-stock-trades/#following-congress-stock-trades   |   Details of trades by politicians (includes price of stock after trade)         |
+| Smart Insider | https://www.smartinsider.com/politicians/  |  Details of trades by politicians |
+| ProPublica | https://www.propublica.org/datastore/api/propublica-congress-api | API to get committees by member of Congress |
+| Open Secrets | https://www.opensecrets.org/open-data/api-documentation | Many different APIs to get information on different committees |
+|  Benzinga  |  https://www.benzinga.com/news/23/03/31521439/conflict-of-interest-congress-members-who-own-meta-goog-snap-shares-could-benefit-from-tiktok-ban   |   Anecdotal evidence of optential insider trading |
+
 
 # Method and medium
 I plan to complete this project using Shorthand and using Tableau and/or Flourish in order to complete any visualizations. 
