@@ -36,12 +36,10 @@ Charts:
 ![text](Sketch5.png)
 
 I am considering the idea of doing an analysis by political party, but party affiliation is not the point of my story, so I will determine if this is necessary when I get feedback.
-
-Note: even though Congress People report if the trade was made by themselves, their partner, or their dependent children, I have elected to just use the Congress Person's name and will annotate % of trades made by them versus others
+Note: even though Congress People report if the trade was made by themselves, their partner, or their dependent children, I have elected to just use the Congress Person's name and will annotate % of trades made by them versus others.
 
 # The data
-Because the STOCK Act requires disclosure of trades, the data is publically accessible through the SEC. Many different websites have built their platforms off of scraping this publicly accessible information so the data is easily accessible in many different places. I plan on using two main sources, Capitol Trades and Quiver Quantitative https://www.quiverquant.com/congresstrading/, which report the same data except Quiver Quantitative reports the performance of the stock since the purchase or sale, and Capitol Trades also has information on the committees the congress people are on. I also have access to an API on congress committees from ProPublica as well as Open Secrets, which will help me connect the Congress People to their committees. I am planning to scrape the information I need of trades, or I could do a free trial of the Quiver Quantitvative site to download the transactions. 
-
+Because the STOCK Act requires disclosure of trades, the data is publically accessible through the SEC. Many different websites have built their platforms off of scraping this publicly accessible information so the data is easily accessible in many different places. I plan on using two main sources, Capitol Trades and Quiver Quantitative https://www.quiverquant.com/congresstrading/, which report the same data except Quiver Quantitative reports the performance of the stock since the purchase or sale, and Capitol Trades also has information on the committees the congress people are on. I also have access to an API on congress committees from ProPublica as well as Open Secrets, which will help me connect the Congress People to their committees. I am planning to scrape the information I need of trades, or I could do a free trial of the Quiver Quantitvative site to download the transactions. Here is a table containing my sources and/or potential sources:
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -55,4 +53,4 @@ Because the STOCK Act requires disclosure of trades, the data is publically acce
 
 
 # Method and medium
-I plan to scrape data using Scrapy in Python, using Spyder. I then plan to clean the data using Pandas on a Jupyter Notebook and export to CSV. From there, I will create visualizations using Tableau and/or Flourish and publish these visualizations and my write up to a Shorthand presentation. 
+I plan to scrape data using Scrapy (Python) and will use Python to make any API calls. I then plan to clean the data using Pandas on a Jupyter Notebook and export to CSV. From there, I will create visualizations using Tableau and/or Flourish and publish these visualizations and my write up to a Shorthand presentation. 
