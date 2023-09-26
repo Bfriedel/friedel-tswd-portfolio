@@ -26,7 +26,7 @@ I am interested in showing how Congress People's stock trades conflict with the 
 
 Story Arc: 
 
-<img src="Sketch1.png" alt="Story-Arc" width="400"/>
+<img src="Sketch1.png" alt="Story-Arc" width="800"/>
 
 ![text](Sketch1.png)
 
