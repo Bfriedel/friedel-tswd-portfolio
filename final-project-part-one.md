@@ -1,4 +1,4 @@
-| [home page]() | [visualizing debt]() | [critique by design]() | [final project I]() |
+| [home page](https://bfriedel.github.io/portfolio/) | [visualizing debt](https://bfriedel.github.io/portfolio/visualizing-government-debt) | [critique by design](https://bfriedel.github.io/portfolio/critique-by-design) | [final project I](https://bfriedel.github.io/portfolio/final-project-part-one) |
 
 # Outline
 In 2012, Congress passed the Stop Trading on Congressional Knowledge (STOCK) Act, which required that members of Congress and the Executive Branch report stock trades above $1,000 made by themselves or family within 45 days of the trade[^1]. This act was designed to combat insider trading following heavy volumes of trades made by members of Congress which led to reports of insider trading[^2]. In the 10+ years since this Act has passed, it has widely been considered a failed effort[^3]. 
