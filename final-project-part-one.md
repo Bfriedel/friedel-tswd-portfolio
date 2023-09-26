@@ -28,9 +28,12 @@ Story Arc:
 
 <img src="Sketch1.png" alt="Story-Arc" width="800"/>
 
-![text](Sketch1.png)
-
 Charts:
+
+<img src="Sketch2.png" alt="Sketch2" width="800"/>
+<img src="Sketch3.png" alt="Sketch3" width="800"/>
+<img src="Sketch4.png" alt="Sketch4" width="800"/>
+<img src="Sketch5.png" alt="Sketch5" width="800"/>
 
 ![text](Sketch2.png)
 ![text](Sketch3.png)
