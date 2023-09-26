@@ -10,13 +10,13 @@ Project Structure:
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-- Introduction to stocks and insider trading
-- STOCK Act requirements
-- arrests since STOCK act and why it's hard to prove insider trading
-- view trades values
-- view which members have made potentially conflicting trades
-- view the values of these trades
-- congress stock performance versus american people stock performance (especially during COVID)
+> - Introduction to stocks and insider trading
+> - STOCK Act requirements
+> - arrests since STOCK act and why it's hard to prove insider trading
+> - view trades values
+> - view which members have made potentially conflicting trades
+> - view the values of these trades
+> - congress stock performance versus american people stock performance (especially during COVID)
 
 
 ## Initial sketches
