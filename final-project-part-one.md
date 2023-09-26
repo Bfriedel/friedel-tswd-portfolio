@@ -13,14 +13,13 @@ I am interested in showing how Congress People's stock trades conflict with the 
 [^6]: https://finance.yahoo.com/news/put-american-public-first-senators-211500437.html
 [^7]: https://www.pewresearch.org/politics/2023/09/19/public-trust-in-government-1958-2023/
 
-Project Structure: 
+## Project Structure: 
 - Introduction to stocks and insider trading
 - STOCK Act requirements
 - Why the act has failed (it's hard to prove insider trading)
-- view trades values
-- view which members have made potentially conflicting trades
-- view the values of these trades
-- congress stock performance versus american people stock performance (especially during COVID)
+- View potentially conflicting trades by members of Congress
+- View the values of these trades
+- Congress stock performance versus American People stock performance (especially during COVID)
 
 
 ## Initial sketches
