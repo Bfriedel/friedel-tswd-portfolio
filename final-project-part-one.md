@@ -2,8 +2,8 @@
 
 # Outline
 > Summary
-In 2012, Congress passed the Stop Trading on Congressional Knowledge (STOCK) Act, which required that members of Congress report stock trades made by themselves or family within 45 days of the trade. This act was designed to combat insider trading following heavy volumes of trades made by members of congress
-In my final project, I am interested in showing how Congress People's stock trades could potentially conflict with the committees that they are on. For around two years on Tik Tok, some creators have established their platform on the basis of tracking Congress peoples' stock trades and highlighting certain trades and bills that could potentially be conflicts of interest. Last year, the New York Times did an analysis on all trades within and found 97 members of Congress that have made potentially conflicting trades based on the committees that they are on. 
+> In 2012, Congress passed the Stop Trading on Congressional Knowledge (STOCK) Act, which required that members of Congress report stock trades made by themselves or family within 45 days of the trade. This act was designed to combat insider trading following heavy volumes of trades made by members of congress
+> In my final project, I am interested in showing how Congress People's stock trades could potentially conflict with the committees that they are on. For around two years on Tik Tok, some creators have established their platform on the basis of tracking Congress peoples' stock trades and highlighting certain trades and bills that could potentially be conflicts of interest. Last year, the New York Times did an analysis on all trades within and found 97 members of Congress that have made potentially conflicting trades based on the committees that they are on. 
 
 Project Structure:
 
