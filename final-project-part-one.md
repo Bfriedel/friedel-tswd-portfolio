@@ -1,10 +1,15 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+| [home page]() | [visualizing debt]() | [critique by design]() | [final project I]() |
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project.
+
+In my final project, I am interested in showing how Congress People's stock trades could potentially conflict with the committees that they are on. For around two years on Tik Tok, some creators have established their platform on the basis of tracking Congress peoples' stock trades and highlighting certain trades and bills that could potentially be conflicts of interest. Last year, the New York Times did an analysis on all trades within and found 97 members of Congress that have made potentially conflicting trades based on the committees that they are on. 
+
+I read an article
+
+Project Structure:
+- 
+
  
 Text here...
 
