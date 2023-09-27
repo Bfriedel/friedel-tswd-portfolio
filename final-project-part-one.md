@@ -26,10 +26,11 @@ I am interested in showing how Congress People's stock trades conflict with the 
 
 Story Arc: 
 
-<img src="Sketch1.png" alt="Story-Arc" width="800"/>
+<img src="StoryArc.png" alt="Story-Arc" width="800"/>
 
 Sketches:
 
+<img src="Sketch1.png" alt="Sketch1" width="800"/>
 <img src="Sketch2.png" alt="Sketch2" width="800"/>
 <img src="Sketch3.png" alt="Sketch3" width="800"/>
 <img src="Sketch4.png" alt="Sketch4" width="800"/>
