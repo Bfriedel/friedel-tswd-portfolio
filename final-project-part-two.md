@@ -18,9 +18,10 @@ My target audience is anyone above the age of 16 in the United States. This incl
 
 | Goal | Questions to Ask |
 |------|------------------|
-|   Figure out if my story, as it stands provides full context of the issue at hand   |    Do you understand what the issue is as I am presenting it?  |
-|      |                  |
-|      |                  |
+| Understand baseline knowledge of interviewee | Do you have any prior knowledge of insider trading? |
+| Figure out if my story, as it stands provides full context of the issue at hand.   |    Do you understand what the issue is as I am presenting it?  |
+|  Find out if I have enough context for why the SEC is able to do so little in the role of enforcement.   |  Would you want to see a case study on a "bad trade" where the Congress Person was not found guilty?   |
+|  Find out if I elicited any emotions with the way I told the story  |   Did this information make you feel any strong emotions?  and Do you think Congress People should be allowed to trade stocks? |
 
 
 Text here!
@@ -32,11 +33,11 @@ Text here!
 
 | Questions               | Male, late 50s | Female, mid 20s | Female, late 50s |
 |-------------------------|--------------------------------|-------------|-------------|
-| Do you have any prior knowledge of insider trading and if so, what? | Yes, I have read a lot about this topic  | Yes, I know it's an issue but don't know many details  | No, I don't know anything about trading stocks or what Congress has to do with it  |
+| Do you have any prior knowledge of insider trading?| Yes, I have read a lot about this topic  | Yes, I know it's an issue but don't know many details  | No, I don't know anything about trading stocks or what Congress has to do with it  |
 | Do you understand what the issue is as I am presenting it? | Yes     | Yes   |  Yes   |
-| Is there anything else you would want to see? (Perhaps a case study on a "bad trade" where the Congress Person was not found guilty)  | No, I know that happens all the time | Yes, specifically I want to see the case of the COVID vaccine companies since that was in the news |  Yes.    |
-| Is there anything else you would want to see? | I want to know why the SEC can't do more. I understand they have a ot of data to look at, but we are in the age of AI so it seems that meeting minutes could be fed into a large language model and we should be able to look at timelines of discussions in subcommittee meetings and then stock trades that are being done with that information. Why is all of this analysis being done by hand? (I did not have an answer for this other than that there are companies that do these kinds of analyses every year including Unusual Whales and Quiver Quantitative.  | Just a case study   | Just an example of trades where the laws were not enforced  |
-| Did this information make you feel any strong emotions?  | I'm just confused as to why more is not being done because we know this is happening. This seems like a missed opportunity for implementing some machine learning models. I am unhappy with the end result being that you need to call your congressman. I want to see the rules enforced. | Yes, these people are corrupt.   | Yes, this is crazy.   |
+| Would you want to see a case study on a "bad trade" where the Congress Person was not found guilty?  | No, I know that happens all the time | Yes, specifically I want to see the case of the COVID vaccine companies since that was in the news |  Yes    |
+| Is there anything else you would want to see? | I want to know why the SEC can't do more. I would also like to see how many congress people reported similar trades. For example, if they were on the same subcommittee, did they have similar trading habits within X days of a meeting? I would also like to see if any reported similar trades and if any reported opposite trades-- was anyone in Congress losing money?   | Just a case study.   | Just an example of trades where the laws were not enforced  |
+| Did this information make you feel any strong emotions?  | I'm just confused as to why more is not being done because we know this is happening. This seems like a missed opportunity for implementing some machine learning models. I am unhappy with the end result being that you need to call your congressman. I want to see the rules enforced | Yes, these people are corrupt   | Yes, this is crazy   |
 | Do you think Congress People should be allowed to trade stocks?  |  No, but I don't think the solution to this problem includes banning trades for their spouses and dependent children. At that point it seems that you are infringing on the rights of private citizens.  | No, they're all corrupt. | No, they are corrupt.  |
 
 
@@ -48,12 +49,16 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Everyone, regardless of previous exposure to the topic, was ok with the amount of background information provided, but I was asked a lot of questions about why the SEC cannot enforce the rules if they know insider trading is happening | In both of these cases, I described the one arrest that was made within the past 10 years and that they were only able to indict the Congress Person when he confessed to the crime and I will be adding this case study to the story to add context for how hard it is to enforce |
-| Those with more exposure to the topic previously were more interested in why, given all of this data, is there not a way to screen trades better.  | I will possibly include an Alternative Outlook section which includes how my analysis was done which could be implemented in some model. |
+| Everyone, regardless of previous exposure to the topic, was ok with the amount of background information provided, but I was asked a lot of questions about why the SEC cannot enforce the rules if they know insider trading is happening | In these cases, I described the one arrest that was made within the past 10 years and that they were only able to indict the Congress Person when he confessed to the crime and I will be adding this case study to the story to add context for how hard it is to enforce. |
+| Those with more exposure to the topic previously were more interested in why, given all of this data, is there not a way to screen trades better.  | I will include a section which includes how my analysis was done for transparency and so it can be recreated if need be. |
 |        |        |
 
 
-> ...include any final thoughts you have here. 
+# Final Thoughts
 
-The data cleaning and processing for this project was more than I anticipated and I have a new appreciation for how much work goes into saying something is insider trading without being in the room. I am using low estimates for my data (my relational database tying committees to market industries is based solely off of the top 20 industries that contribute to Congress People on Committees. I may change this if Ii find a better way moving forward, but other than going through every bill or press release, or going through every committee's jurisdiction, and making a judgment call as to what industries were affected, I think this is the most factual way to say one committee influences one industry. 
+I am still searching for a better way to create the graphic that would show impact of one conversation in a committee meeting. I think I may use Infogram, but am not sure. 
 
+The data cleaning and processing for this project was more than I anticipated and I have a new appreciation for how much work goes into saying something is insider trading without being in the room. I am using low estimates for my data (my relational database tying committees to market industries is based solely off of the top 20 industries that contribute to Congress People on Committees. I may change this if Ii find a better way moving forward, but other than going through every bill or press release, or going through every committee's jurisdiction, and making a judgment call as to what industries were affected, I think this is the most factual way to say one committee influences one industry. It would be interesting to see how available different committee and subcommittee meeting minutes are and using a ML model to indicate which industries were affected by that meeting. 
+
+
+I understand they have a lot of data to look at, but we are in the age of AI so it seems that meeting minutes could be fed into a large language model and we should be able to look at timelines of discussions in subcommittee meetings and then stock trades that are being done with that information. Why is all of this analysis being done by hand? (I did not have an answer for this other than that there are companies that do these kinds of analyses every year including Unusual Whales and Quiver Quantitative.
