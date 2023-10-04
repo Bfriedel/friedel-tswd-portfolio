@@ -1,5 +1,7 @@
 | [home page](https://bfriedel.github.io/portfolio/) | [visualizing debt](https://bfriedel.github.io/portfolio/visualizing-government-debt) | [critique by design](https://bfriedel.github.io/portfolio/critique-by-design) | [final project I](https://bfriedel.github.io/portfolio/final-project-part-one) | [final project II](https://bfriedel.github.io/portfolio/final-project-part-two)
 
+# Final Project Part 2
+
 # Wireframe
 
 You can view my wireframed story on [Shorthand](https://preview.shorthand.com/lRTrIqEY1pAI1Q4h).
