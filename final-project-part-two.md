@@ -1,7 +1,6 @@
 
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Wireframe
 
 You can view my wireframed story on [Shorthand](https://preview.shorthand.com/lRTrIqEY1pAI1Q4h).
 
@@ -43,8 +42,10 @@ I will choose people who range from well-informed to not informed on the topic o
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Everyone, regardless of previous exposure to the topic, was ok with the amount of background information provided, but I was asked a lot of questions about why the SEC cannot enforce the rules if they know insider trading is happening | In these cases, I described the one arrest that was made within the past 10 years and that they were only able to indict the Congress Person when he confessed to the crime and I will be adding this case study to the story to add context for how hard it is to enforce. |
 | Those with more exposure to the topic previously were more interested in why, given all of this data, is there not a way to screen trades better.  | I will include a section which includes how my analysis was done for transparency and so it can be recreated if need be. |
+| Those with more exposure to the topic previously were interested in seeing more detailed information on "bad trades." | While I also find this interesting, the point of the story is to informa and motivate, and going into the details will lose the interest of the regular voter, so I will keep the information more general. |
 |  Everyone liked the soon-to-be graphic which shows just how many companies Congress has insight into and thought that provided a lot of context for how much information there is to sift through. | I will build this out more and have it include subcommittees, which meet more often than the committee at large, and also show how many Congress People are on each committee. I am still searching for a better way to create the graphic that would show impact of one conversation in a committee meeting. I think I may use Infogram, but am not sure. |
 | Everyone wants to know why laws are not enforced and want to see more examples of when they are obviously borken but not enforced | I will add some more background information but will also be adding a simple graphic right at the beginning which shows that a lot of Congress People report their transactions well outside the window of 45 days. This will be to point out that even the simplest of the rules are not followed. |
+| When explaining the concepts, I used many different terms to say "insider trading" including, but not limited to: bad trades, potentially bad trades, shady transactions, potential insider trading, conflict of interest, potential conflict of interest. | This was confusing to those who had less exposure to the topic so I will make sure to choose one term, define the term I use early, and include a disclaimer that I am not accusing anyone of insider trading, just pointing out where there are potential conflicts of interest. |
 
 
 # Final Thoughts
