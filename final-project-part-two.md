@@ -9,7 +9,9 @@ You can view my wireframed story on [Shorthand](https://preview.shorthand.com/lR
 
 ## Target audience
 
-My target audience is anyone above the age of 16 in the United States. This includes people of voting age ans well as those who will be of voting age within two years as these are the people who will be able to influence their Congress People and who the Congress People should be representative of. If they are informed of possible corruption happening at the highest levels, why 
+My target audience is anyone above the age of 16 in the United States. This includes people of voting age ans well as those who will be of voting age within two years as these are the people who will be able to influence their Congress People and who the Congress People should be representative of. If they are informed of possible corruption happening at the highest levels, they will be eager to see change (hopefully) and elect out anyone who does not prepresent their views and values. 
+
+I will choose people who range from well-informed to not informed on the topic of insider trading and who are all registered voters. 
 
 ## Interview script
 
@@ -18,7 +20,7 @@ My target audience is anyone above the age of 16 in the United States. This incl
 | Understand baseline knowledge of interviewee | Do you have any prior knowledge of insider trading? |
 | Figure out if my story, as it stands provides full context of the issue at hand.   |    Do you understand what the issue is as I am presenting it?  |
 |  Find out if I have enough context for why the SEC is able to do so little in the role of enforcement.   |  Would you want to see a case study on a "bad trade" where the Congress Person was not found guilty?   |
-|  Find out if I elicited any emotions with the way I told the story  |   Did this information make you feel any strong emotions?  and Do you think Congress People should be allowed to trade stocks? |
+|  Find out if I elicited any emotions with the way I told the story  |   Did this information make you feel any strong emotions? and Do you think Congress People should be allowed to trade stocks? |
 
 
 ## Interview findings
@@ -42,7 +44,7 @@ My target audience is anyone above the age of 16 in the United States. This incl
 | Everyone, regardless of previous exposure to the topic, was ok with the amount of background information provided, but I was asked a lot of questions about why the SEC cannot enforce the rules if they know insider trading is happening | In these cases, I described the one arrest that was made within the past 10 years and that they were only able to indict the Congress Person when he confessed to the crime and I will be adding this case study to the story to add context for how hard it is to enforce. |
 | Those with more exposure to the topic previously were more interested in why, given all of this data, is there not a way to screen trades better.  | I will include a section which includes how my analysis was done for transparency and so it can be recreated if need be. |
 |  Everyone liked the soon-to-be graphic which shows just how many companies Congress has insight into and thought that provided a lot of context for how much information there is to sift through. | I will build this out more and have it include subcommittees, which meet more often than the committee at large, and also show how many Congress People are on each committee. I am still searching for a better way to create the graphic that would show impact of one conversation in a committee meeting. I think I may use Infogram, but am not sure. |
-| Everyone wants to know why laws are not enforced and want to see more examples of when they are obviously borken but not enforced | I will add some more background information but will also be adding a simple graphic right at the beginnign which shows that a lot of Congress People report their transactions well outside the window of 45 days. |
+| Everyone wants to know why laws are not enforced and want to see more examples of when they are obviously borken but not enforced | I will add some more background information but will also be adding a simple graphic right at the beginning which shows that a lot of Congress People report their transactions well outside the window of 45 days. This will be to point out that even the simplest of the rules are not followed. |
 
 
 # Final Thoughts
