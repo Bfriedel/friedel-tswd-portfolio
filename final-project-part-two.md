@@ -2,19 +2,19 @@
 
 # Final Project Part 2
 
-# Wireframe
+## Wireframe
 
 You can view my wireframed story on [Shorthand](https://preview.shorthand.com/lRTrIqEY1pAI1Q4h).
 
-# User research 
+## User research 
 
-## Target audience
+### Target audience
 
 My target audience is anyone above the age of 16 in the United States. This includes people of voting age ans well as those who will be of voting age within two years as these are the people who will be able to influence their Congress People and who the Congress People should be representative of. If they are informed of possible corruption happening at the highest levels, they will be eager to see change (hopefully) and elect out anyone who does not prepresent their views and values. 
 
 I will choose people who range from well-informed to not informed on the topic of insider trading and who are all registered voters. 
 
-## Interview script
+### Interview script
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -24,7 +24,7 @@ I will choose people who range from well-informed to not informed on the topic o
 |  Find out if I elicited any emotions with the way I told the story  |   Did this information make you feel any strong emotions? and Do you think Congress People should be allowed to trade stocks? |
 
 
-## Interview findings
+### Interview findings
 
 
 | Questions               | Male, late 50s | Female, mid 20s | Female, late 50s |
@@ -38,7 +38,7 @@ I will choose people who range from well-informed to not informed on the topic o
 
 
 
-# Identified changes for Part III
+## Identified changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -50,7 +50,7 @@ I will choose people who range from well-informed to not informed on the topic o
 | When explaining the concepts, I used many different terms to say "insider trading" including, but not limited to: bad trades, potentially bad trades, shady transactions, potential insider trading, conflict of interest, potential conflict of interest. | This was confusing to those who had less exposure to the topic so I will make sure to choose one term, define the term I use early, and include a disclaimer that I am not accusing anyone of insider trading, just pointing out where there are potential conflicts of interest. |
 
 
-# Final Thoughts
+## Final Thoughts
 
 Overall, I think my story, the way I am presenting it, is doing a good job conveying the issue. Without being too alarmist, I am able to impress upon the issue at hand and make people eager to see change (although I think the topic makes that relatively easy).  
 
