@@ -1,42 +1,40 @@
 | [home page](https://bfriedel.github.io/portfolio/) | [visualizing debt](https://bfriedel.github.io/portfolio/visualizing-government-debt) | [critique by design](https://bfriedel.github.io/portfolio/critique-by-design) | [final project I](https://bfriedel.github.io/portfolio/final-project-part-one) | [final project II](https://bfriedel.github.io/portfolio/final-project-part-two) | [final project III](https://bfriedel.github.io/portfolio/final-project-part-three)
 
-# Congressional Stock Trading
+# Final Project Part 3: Congressional Stock Trading
 
  My final data story can be found on [Shorthand](https://carnegiemellon.shorthandstories.com/congressional-stock-trading/).
 
-# Changes made since Part II
+## Final Design Decisions and Changes Made Since Part II
 
-Since Part 2, I have made several content changes, including the removal of the section that attempted to illustrate the challenges the SEC faces in investigating individual trades. Instead, I replaced it with a timeline detailing the COVID insider trading allegations and investigations. I made this change because, as I analyzed the data, I realized that identifying potentially suspicious trades wasn't particularly difficult. However, it's important to note that the SEC initiates investigations only in response to specific complaints. Therefore, it didn't seem logical to assert that "they don't investigate because there are too many trades to review." While it is true that investigating every trade would be a substantial undertaking, their decision is fundamentally based on policy. 
+Since Part 2, I have implemented several changes to the content. Notably, I removed the section attempting to illustrate the challenges the SEC faces in investigating individual trades. Instead, I replaced it with a timeline that details the allegations and investigations related to COVID insider trading. The reason for this alteration is that, upon analyzing the data, I realized that identifying potentially suspicious trades wasn't particularly difficult. However, it's crucial to note that the SEC initiates investigations only in response to specific complaints. Therefore, it didn't seem logical to assert that "they don't investigate because there are too many trades to review." While it is true that investigating every trade would be a substantial undertaking, their decision is fundamentally based on policy.
 
-I also added the part about only one Congress person being investigated since the STOCK Act was passed since I was explaining this vocally anyway. I added the section on how many trades are not reported within 45 days to show how easy it is for Congress Members to not follow the rules. This information was derived from date of transaction and date reported. I found an additional source stating that there is no record of anyone facing a penalty for breaking the rule. 
+I also added the part about only one Congress Person being investigated since the STOCK Act was passed, as I was explaining this vocally anyway. I added the section on how many trades are not reported within 45 days to highlight how easy it is for Congress Members to not follow the rules. This information was derived from the date of the transaction and date reported. I found an additional source stating that there is no record of anyone facing a penalty for breaking the rule and included this for context. 
 
-I clearly defined what I was showing, "questionable trades," to mean trades which could be considered a conflict of interest based on the Committees that the Representative is on. I was loose with this term in both parts 1 and 2 and wanted to make sure that there was no confusion that I am not calling out these Members of Congress, but calling attention to the broken system in place.
+I have now clearly defined what I meant by "questionable trades," referring to trades which could be considered a conflict of interest based on the Committees that the Representative is on. I was somewhat loose with this term in both parts 1 and 2 and wanted to ensure that there is no confusion. I am not calling out these Members of Congress but drawing attention to the broken system in place.
 
-I added the sources to each visual, as was suggeted in my part 2 feedback. The only visual I could not do this with was the Infogram, since you have to have an upgraded account to embed hyperlinks into those graphics. Iincluded those sources at the very bottom of the page. 
+I have also added sources to each visual, as suggested in my Part 2 feedback. The only visual I could not do this with was the Infogram since you have to have an upgraded account to embed hyperlinks into those graphics. I included those sources at the very bottom of the page.
 
-Finally, I made sure to make the topic more introductory, which I will talk about more in the next section. 
+For the visual design, I decided to go with a dark background and dark photos since this topic promotes distrust. I used one light-colored photo in my call to action to represent some kind of hope that we, as voters, do have some say.
 
+In response to feedback regarding the red/blue motif potentially being confusing due to its association with political parties, I changed the colors in the context of the 45-day window and the chart showing trades by Congressperson. For these graphics, I opted for red and gray to emphasize key aspects in red. I have chosen to stick with these colors in the context of representing members who trade because they also are the colors on the US flag, and we are discussing the US government. Gray is used to represent Members who have not reported any trades over $1,000 since they are not involved in the analysis but should still be noted. Because I never use these colors in the context of political parties, it should be less confusing for the viewer.
 
-## The Audience
+Lastly, I made sure to make the topic more introductory, which I will discuss further in the next section.
+
+### The Audience
 
 My original audience was anyone above the age of 16 in the United States. As I was completing the final portion of this project, I narrowed down my audience to those over the age of 16 who are not well-informed on the topic of Congressional insider trading. As I was completing my interviews, one was with someone who is well-informed on the topic, one with someone who had briefly heard of the topic through news headlines but had never read up on it in full, and one was with someone who had no exposure to the topic. I found that going through the page with someone who knew a lot about the topic led to a lot of requests for deeper and more detailed information, and while I am also interested in the more detailed analysis, I realized my intention was to educate people on the issue.
 
 In order to make this content more accessible, I refined my intro to make it more less detailed and a real introduction to the topic, assuming the audience did not know anything. I also refined the section on how the SEC has a hard time prosecuting insider trading crimes without a confession in order to make it clear that the only way to stop it would be to ban this act altogether.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-I decided to go with a dark background and dark photos since this topic is promoting distrust. I received feedback from one party saying that the red/blue motif might be confusing since it is associated with political party, however, I have chosen to stick with these colors because they also are the colors on the US flag and we are talking about the US government. Additionally, I want to use red to bring attention to key aspects and blue to represent other trades that should still be examined. I used black to represent Memberswho have not reported any trades over $1,000. Because I never use them in the context of political party, it should be less confusing to the viewer. 
-
-It should be noted, that by flagging trades based on political 
-
-## References
+### References
 
 All of my references are included as embedded links on my Shorthand page.
 
-# Final thoughts
+## Final thoughts
 
 This project was incredibly interesting to me, and every time I delved deeper into a facet of it, I felt like I learned something new. I had to restrain myself from delving further into individual Congress Members or Committees and remind myself that the point of the project was to present an introduction to the topic. I have received a lot of feedback that it is funny or weird that the way to fix the broken system is to plead to those that are taking advantage of a broken system and I completely agree with this sentiment, but besides calling attention to the issue and educating people on the topic, there are not really any alternatives.
+
+It should be noted, that by flagging trades based on Committee assignment, is does leave out some analysis as there are members, like Nancy Pelosi and Kevin McCarthy, who do not sit on any Committees but still have access to a lot of information as the ranking person in their respective house. 
 
 Below, I have listed the steps of my analysis, as the dataset was assembled by me through multiple different sources:
 
