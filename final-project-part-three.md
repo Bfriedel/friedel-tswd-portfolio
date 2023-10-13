@@ -49,5 +49,3 @@ I merged the stock lists and trades DataFrames using the ticker/symbol of the st
 I created a function that examined every row of the trades DataFrame, used the industry and the first and last name of the Representative, and examined every committee that Representative is in. If the representative is in a committee that affects the industry corresponding to the stock's ticker, the function returned 'yes'; otherwise, it returned 'no.'
 Once I had a new column labeled 'questionable,' I performed various data grouping analyses to examine the trades by person, party, or house. Ultimately, I focused on the data by person while keeping the primary goal of my project in mind.
 
-Overall, it was a lot of work to refine the data, but it yielded some interesting results. 
-
