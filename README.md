@@ -13,7 +13,9 @@ I'm hoping to create a new way of thinking for how best to present data, past ju
 
 ## Assignment 3&4: [Critique by Design](https://bfriedel.github.io/portfolio/critique-by-design)
 
-## Final project Part 1: [Final Project Part 1](https://bfriedel.github.io/portfolio/final-project-part-one)
+## Final Project Part 1: [Final Project Part 1](https://bfriedel.github.io/portfolio/final-project-part-one)
 
-## Final project Part 2: [Final Project Part 2](https://bfriedel.github.io/portfolio/final-project-part-two)
+## Final Project Part 2: [Final Project Part 2](https://bfriedel.github.io/portfolio/final-project-part-two)
+
+## Final Project Part 3: [Final Project Part 3](https://bfriedel.github.io/portfolio/final-project-part-three)
 
