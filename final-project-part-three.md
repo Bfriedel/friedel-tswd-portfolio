@@ -28,7 +28,7 @@ In order to make this content more accessible, I refined my intro to make it mor
 
 ### References
 
-All of my references are included as embedded links on my Shorthand page.
+All of my references are included as embedded links on my [Shorthand](https://carnegiemellon.shorthandstories.com/congressional-stock-trading/) page.
 
 ## Final thoughts
 
