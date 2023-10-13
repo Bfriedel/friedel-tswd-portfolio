@@ -5,9 +5,9 @@
  My final data story can be found on [Shorthand](https://carnegiemellon.shorthandstories.com/congressional-stock-trading/).
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Since Part 2, I made a few changes in the content including removing the section hat tried to illustrate how hard it was for the SEC to investigate one trade and replaced it with the timeline on the COVID Insider trading allegations and investigations. I did this because as I was going through the data, I realized it was not that difficult to figure out what trades could be suspicious, but the SEC only investigates when there is a complaint made, so it did not seem logical to try and say "they don't investigate because there is too many trades to look at." While it's true that there would be a lot to investigate if they loked at every trade, the decision not to do thatis based off policy. 
+Since Part 2, I have made several content changes, including the removal of the section that attempted to illustrate the challenges the SEC faces in investigating individual trades. Instead, I replaced it with a timeline detailing the COVID insider trading allegations and investigations. I made this change because, as I analyzed the data, I realized that identifying potentially suspicious trades wasn't particularly difficult. However, it's important to note that the SEC initiates investigations only in response to specific complaints. Therefore, it didn't seem logical to assert that "they don't investigate because there are too many trades to review." While it is true that investigating every trade would be a substantial undertaking, their decision is fundamentally based on policy.
+
 
 ## The Audience
 
@@ -21,12 +21,10 @@ In order to make this content more accessible, I refined my intro to make it mor
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
 All of my references are included as embedded links on my Shorthand page.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 This project was incredibly interesting to me, and every time I delved deeper into a facet of it, I felt like I learned something new. I had to restrain myself from delving further into individual Congress Members or Committees and remind myself that the point of the project was to present an introduction to the topic.
 
