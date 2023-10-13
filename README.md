@@ -1,5 +1,5 @@
 This is my public portfolio for Telling Stories with Data at CMU.
-- Web page URL: https://bfriedel.github.io/portfolio/
+- Web page URL: [https://bfriedel.github.io/portfolio/](https://bfriedel.github.io/portfolio/)
 
 # About me
 I am a second year student in CMU's MISM-BIDA program, graduating in May of 2024. I am from the East Coast of the US and I love to read books and hang out with my two dogs.
